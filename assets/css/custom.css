@@ -1,0 +1,22 @@
+
+div figure pre code {
+    text-align: left;
+    font-family: monospace, monospace;
+    
+}
+
+div figure pre {
+    overflow: auto;
+}
+
+div figure pre > code {
+    display: block;
+    padding: 1rem;
+    word-wrap: normal;
+    color: rgb(59, 59, 59);
+  }
+
+  div figure pre code .excel {
+    background-color: black;
+    
+}
